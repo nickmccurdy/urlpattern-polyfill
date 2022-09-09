@@ -67,7 +67,7 @@
     "manual-test": "wireit",
     "publish-dev": "wireit",
     "publish-prod": "wireit",
-    "prepare": "npm run build
+    "prepare": "npm run build"
   },
   "wireit": {
     "build:esm": {
